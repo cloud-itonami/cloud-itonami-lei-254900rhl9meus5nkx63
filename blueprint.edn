@@ -1,5 +1,12 @@
-{:company/legal-name "NextEra Energy, Inc."
- :company/lei "254900RHL9MEUS5NKX63"
+{:company/gleif-note "registry facts from GLEIF (https://api.gleif.org/api/v1/lei-records/254900RHL9MEUS5NKX63), retrieved 2026-08-25 by scripts/lei-gleif-ingest.cljs (GET only)"
  :company/jurisdiction "US-FL"
- :company/website "https://www.nexteraenergy.com"
- :company/ticker "NEE (NYSE)"}
+ :company/legal-address "C/O CORPORATION SERVICE COMPANY, 1201 HAYS STREET, 32301, TALLAHASSEE, US-FL, US"
+ :company/legal-form-elf "TRI2"
+ :company/legal-jurisdiction "US-FL"
+ :company/legal-name "NextEra Energy, Inc."
+ :company/lei "254900RHL9MEUS5NKX63"
+ :company/lei-status "ISSUED"
+ :company/postal-address "700 UNIVERSE BLVD, 33408, JUNO BEACH, US-FL, US"
+ :company/registration-number "M04961"
+ :company/ticker "NEE (NYSE)"
+ :company/website "https://www.nexteraenergy.com"}
